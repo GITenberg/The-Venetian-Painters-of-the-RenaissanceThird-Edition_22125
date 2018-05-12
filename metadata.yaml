@@ -1,0 +1,31 @@
+_repo: The-Venetian-Painters-of-the-RenaissanceThird-Edition_22125
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Berenson, Bernard
+    birthdate: 1865
+    deathdate: 1959
+    gutenberg_agent_id: '7360'
+    url: http://www.gutenberg.org/2009/agents/7360
+    wikipedia: http://en.wikipedia.org/wiki/Bernard_Berenson
+description: ''
+gutenberg_bookshelf: Art
+gutenberg_issued: '2007-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22125'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ND'
+- !lcsh 'Art, Renaissance'
+- !lcsh 'Painters -- Italy -- Venice'
+title: 'The Venetian Painters of the Renaissance
+
+  Third Edition'
+url: http://www.gutenberg.org/ebooks/22125
